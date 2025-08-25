@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/manoj-b/static/css/main.3668ec97.css",
+    "main.js": "/manoj-b/static/js/main.255d98dc.js",
+    "static/js/453.2e9efdf4.chunk.js": "/manoj-b/static/js/453.2e9efdf4.chunk.js",
+    "index.html": "/manoj-b/index.html",
+    "main.3668ec97.css.map": "/manoj-b/static/css/main.3668ec97.css.map",
+    "main.255d98dc.js.map": "/manoj-b/static/js/main.255d98dc.js.map",
+    "453.2e9efdf4.chunk.js.map": "/manoj-b/static/js/453.2e9efdf4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3668ec97.css",
+    "static/js/main.255d98dc.js"
+  ]
+}

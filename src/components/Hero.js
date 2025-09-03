@@ -113,7 +113,7 @@ const Hero = () => {
                 Get In Touch <FaArrowRight />
               </button>
               <a
-                href="/Manoj-B-Resume.pdf"
+                href="/Manoj B.pdf"
                 download="Manoj-B-Resume.pdf"
                 className="btn btn-secondary"
               >
@@ -125,7 +125,13 @@ const Hero = () => {
           <div className="hero-image">
             <div className="image-container">
               <div className="image-placeholder">
-                <img src="/assets/manojb.jpeg" alt="Manoj B Portrait" />
+                <img 
+                  src={require("./images/manojb.jpeg")} 
+                  alt="Manoj B Portrait" 
+                  loading="eager"
+                  fetchpriority="high"
+                  className="profile-image"
+                />
               </div>
               <div className="floating-elements">
                 <div className="floating-card tech-card">

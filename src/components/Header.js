@@ -46,10 +46,10 @@ const Header = ({ darkMode, toggleTheme }) => {
               <a href="https://github.com/Manoj-B-26" target="_blank" rel="noopener noreferrer">
                 <FaGithub />
               </a>
-              <a href="#" target="_blank" rel="noopener noreferrer">
+              <a href="https://x.com/manojb_26" target="_blank" rel="noopener noreferrer">
                 <FaTwitter />
               </a>
-              <a href="#" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.instagram.com/manojb_26/" target="_blank" rel="noopener noreferrer">
                 <FaInstagram />
               </a>
             </div>

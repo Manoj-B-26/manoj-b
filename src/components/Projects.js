@@ -18,7 +18,7 @@ const Projects = () => {
         'Real-time hand sign recognition',
         'Text translation for communication'
       ],
-      image: '/assets/Real-Time Sign Language Translator.png',
+      image: require("./images/projects/Real_Time_Sign_Language_Translator.png"),
       github: 'https://github.com/Niveditha1234-bit/Indian-Sign-Language-TRANSLATOR',
       demo: 'https://github.com/Niveditha1234-bit/Indian-Sign-Language-TRANSLATOR',
       featured: false
@@ -34,7 +34,7 @@ const Projects = () => {
         'Facial recognition verification',
         'Automated Excel sheet logging'
       ],
-      image: '/assets/Next-Gen Attendance System.png',
+      image: require("./images/projects/Next_Gen_Attendance_System.png"),
       github: 'https://github.com/Manoj-B-26/NEXT-GEN-ATTENDANCE-SYSTEM-QR-COMPUTER-VISION',
       demo: 'https://github.com/Manoj-B-26/NEXT-GEN-ATTENDANCE-SYSTEM-QR-COMPUTER-VISION',
       featured: false
@@ -50,7 +50,7 @@ const Projects = () => {
         'Event registration system',
         'High availability hosting'
       ],
-      image: '/assets/AAROHANA 2025 – College Fest Website.png',
+      image: require("./images/projects/AAROHANA_2025.png"),
       github: 'https://aarohana-2025.onrender.com/',
       demo: 'https://aarohana-2025.onrender.com/',
       featured: true
@@ -66,7 +66,7 @@ const Projects = () => {
         'Medical image dataset analysis',
         'Automated screening pipeline'
       ],
-      image: '/assets/MelanoAI Skin Cancer Screening.png',
+      image: require("./images/projects/MelanoAI.png"),
       github: 'https://github.com/trapti19singhal/AI_Melano_Infosys_Internship_Oct2024/tree/main/Manoj_B',
       demo: 'https://github.com/trapti19singhal/AI_Melano_Infosys_Internship_Oct2024/tree/main/Manoj_B',
       featured: false

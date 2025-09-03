@@ -19,7 +19,7 @@ const Experience = () => {
                 'Collaborated with team to deliver project requirements and deliverables.'
             ],
             technologies: ['Python', 'Machine Learning', 'Data Analysis', 'Model Deployment'],
-            logo: '/assets/Infosys Springboard.png',
+            logo: require("./images/projects/Infosys_Springboard.png"),
         },
         {
             id: 2,
@@ -35,7 +35,7 @@ const Experience = () => {
                 'Tuned model parameters and deployed an end-to-end ML solution.'
             ],
             technologies: ['Python', 'TensorFlow', 'Keras', 'Streamlit', 'Random Forest'],
-            logo: '/assets/IBM SkillsBuild.png',
+            logo: require("./images/projects/IBM_SkillsBuild.png"),
         }
     ];
 

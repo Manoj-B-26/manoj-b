@@ -97,8 +97,8 @@ const Contact = () => {
   const socialLinks = [
     { icon: <FaLinkedin />, url: 'https://linkedin.com/in/manojb26', label: 'LinkedIn' },
     { icon: <FaGithub />, url: 'https://github.com/Manoj-B-26', label: 'GitHub' },
-    { icon: <FaTwitter />, url: '#', label: 'Twitter' },
-    { icon: <FaInstagram />, url: '#', label: 'Instagram' }
+    { icon: <FaTwitter />, url: 'https://x.com/manojb_26', label: 'Twitter' },
+    { icon: <FaInstagram />, url: 'https://www.instagram.com/manojb_26/', label: 'Instagram' }
   ];
 
   return (

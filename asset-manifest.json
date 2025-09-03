@@ -1,15 +1,20 @@
 {
   "files": {
-    "main.css": "/manoj-b/static/css/main.3668ec97.css",
-    "main.js": "/manoj-b/static/js/main.255d98dc.js",
+    "main.css": "/manoj-b/static/css/main.663d6b1b.css",
+    "main.js": "/manoj-b/static/js/main.a27d2cb1.js",
     "static/js/453.2e9efdf4.chunk.js": "/manoj-b/static/js/453.2e9efdf4.chunk.js",
+    "static/media/AAROHANA_2025.png": "/manoj-b/static/media/AAROHANA_2025.7b8ec7e27076a9a64beb.png",
+    "static/media/Real_Time_Sign_Language_Translator.png": "/manoj-b/static/media/Real_Time_Sign_Language_Translator.456eb6d911b246eb00c1.png",
+    "static/media/Next_Gen_Attendance_System.png": "/manoj-b/static/media/Next_Gen_Attendance_System.f54649a1f7c521d00aea.png",
+    "static/media/MelanoAI.png": "/manoj-b/static/media/MelanoAI.ac603349d4c2fc84566f.png",
+    "static/media/manojb.jpeg": "/manoj-b/static/media/manojb.f73d3ff023e217f45897.jpeg",
     "index.html": "/manoj-b/index.html",
-    "main.3668ec97.css.map": "/manoj-b/static/css/main.3668ec97.css.map",
-    "main.255d98dc.js.map": "/manoj-b/static/js/main.255d98dc.js.map",
+    "main.663d6b1b.css.map": "/manoj-b/static/css/main.663d6b1b.css.map",
+    "main.a27d2cb1.js.map": "/manoj-b/static/js/main.a27d2cb1.js.map",
     "453.2e9efdf4.chunk.js.map": "/manoj-b/static/js/453.2e9efdf4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3668ec97.css",
-    "static/js/main.255d98dc.js"
+    "static/css/main.663d6b1b.css",
+    "static/js/main.a27d2cb1.js"
   ]
 }

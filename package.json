@@ -1,7 +1,7 @@
 {
   "name": "manoj-b",
   "version": "0.1.0",
-  "homepage": "https://www.manojb.me/",
+  "homepage": "https://www.manojb.me",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
